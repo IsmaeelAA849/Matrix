@@ -1,4 +1,4 @@
-package chapter6;
+
 
 public class MatricesCalculator {
 	public void add(Matrix A, Matrix B){
